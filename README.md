@@ -14,6 +14,6 @@
 
 ## Rodando o jogo
 
-- Abre o seu terminal *dentro* da pasta bin
+- Abre o seu terminal **dentro** da pasta bin
 - Comando: "java application/Program"
 - Divirta-se
