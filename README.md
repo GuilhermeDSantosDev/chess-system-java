@@ -12,7 +12,7 @@
 
 - Ter um terminal colorido (GitBash/Osx terminal color)
 
-## Rodar
+## Rodando o jogo
 
 - Abre o seu terminal dentro da pasta bin
 - Comando: "java application/Program
