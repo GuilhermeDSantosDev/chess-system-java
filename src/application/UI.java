@@ -40,7 +40,6 @@ public class UI {
 		System.out.flush();
 	} 
 
-
 	public static ChessPosition readChessPosition(Scanner sc) {
 		
 		try {
