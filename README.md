@@ -1,10 +1,10 @@
 # Jogo de Xadrez em java
 
-##Requisitos
+## Requisitos
 
 - Ter instalado JDK
 
-##Instalação 
+## Instalação 
 
 - Nada demais, apenas configurar a sua IDE para que o projeto esteja rodando com o JDK
 
