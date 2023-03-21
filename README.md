@@ -6,7 +6,7 @@
 
 ## Instalação 
 
-'doccker run -it gdoss/chess-system-java:finished'
+'docker run -it gdoss/chess-system-java:finished'
 
 ## Dicas
 
