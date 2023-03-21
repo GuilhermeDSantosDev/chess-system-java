@@ -2,11 +2,11 @@
 
 ## Requisitos
 
-- Ter instalado JDK
+- Ter instalado Docker
 
 ## Instalação 
 
-- Nada demais, apenas configurar a sua IDE para que o projeto esteja rodando com o JDK
+'doccker run -it gdoss/chess-system-java:finished'
 
 ## Dicas
 
@@ -14,6 +14,5 @@
 
 ## Rodando o jogo
 
-- Abre o seu terminal **dentro** da pasta bin
-- Comando: "java application/Program"
-- Divirta-se
+- O jogo aceita apenas o local de origem e local de destino das peças
+- Ou seja, para jogar só precisa escrever, por exemplo, "c1" enter / "c4" enter
