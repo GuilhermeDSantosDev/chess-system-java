@@ -15,4 +15,4 @@
 ## Rodando o jogo
 
 - O jogo aceita apenas o local de origem e local de destino das peças
-- Ou seja, para jogar só precisa escrever, por exemplo, "c1" enter / "c4" enter
+- Ou seja, para jogar só precisa escrever, por exemplo, "c2" enter / "c4" enter
